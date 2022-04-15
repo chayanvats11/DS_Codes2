@@ -1,1 +1,1 @@
-one zero zero zero one two 
+3, 5, 7, 10, 11, 32, 76, 
